@@ -3,6 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=jubayeralfaruk&label=Profile%20Views&color=537FE7&style=flat-square" />
 </p>
 
+![a-modern-web-developer-banner-design-fea_TDONHC-ITBm8VyY1EugRSQ_XvcjkoXwQqS1FUa2LL-PQg](https://github.com/user-attachments/assets/16c731e4-0a61-4cdd-8520-d5fd3e8dc052)
+
+
+
 <h1 align="center">👋 Hi, I'm <span style="color:#537FE7;">Jubayer Al Faruk</span></h1>
 <h3 align="center">Front-End Developer • MERN Stack Learner • Tech Explorer</h3>
 
