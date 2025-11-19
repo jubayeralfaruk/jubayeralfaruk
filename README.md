@@ -28,49 +28,15 @@
 
 ---
 
-# 🚀 Learning Journey (MERN Roadmap)
+## 📘 Learning Journey — MERN
 
-## 🔹 HTML & CSS (Strong Foundation)
-- Clean HTML structure, semantics, forms  
-- Modern CSS, Flexbox, Grid  
-- Fully responsive layouts  
-- UI/UX basics, image optimization  
-- Tools: **Tailwind CSS**, **DaisyUI**
-
----
-
-## 🔹 JavaScript Mastery
-- Variables, functions, Arrays, Conditions  
-- DOM manipulation, Events  
-- ES5–ES6+, arrow functions, destructuring  
-- Asynchronous JS, JSON, APIs  
-- Browser storage, debugging
-
----
-
-## 🔹 React & SPA Development
-- Component-based architecture  
-- Hooks, Props, State  
-- React Router, Private Routes  
-- Context API, Axios
-
----
-
-## 🔹 Authentication (Front & Back)
-- Firebase Authentication  
-- Email/Password Login  
-- JWT Authentication  
-- Axios Interceptor  
-- Secure Private Routes
-
----
-
-## 🔹 Backend Development (Node + Express + MongoDB)
-- REST APIs  
-- CRUD operations  
-- MongoDB schema & indexing  
-- Middleware  
-- JWT-secured routes
+| Topic | Skills & Highlights |
+|-------|----------------------|
+| **HTML & CSS (Strong Foundation)** | • Semantic HTML, forms<br>• Modern CSS, Flexbox, Grid<br>• Fully responsive layouts<br>• UI/UX basics, image optimization<br>• Tailwind CSS, DaisyUI |
+| **JavaScript Mastery** | • Variables, functions, arrays, conditions<br>• DOM manipulation & events<br>• ES5–ES6+ (arrow functions, destructuring)<br>• Async JS, Fetch API, JSON<br>• Browser storage & debugging |
+| **React & SPA Development** | • Component-based architecture<br>• Props, State, Hooks<br>• React Router & Private Routes<br>• Context API, Axios |
+| **Authentication (Front & Back)** | • Firebase Authentication<br>• Email/Password Login<br>• JWT Authentication<br>• Axios Interceptor<br>• Secure Private Routes |
+| **Backend (Node + Express + MongoDB)** | • REST API development<br>• CRUD operations<br>• MongoDB schema & indexing<br>• Middleware<br>• JWT-secured routes |
 
 
 ---
