@@ -88,9 +88,11 @@
 
 # 📫 Contact Me
 
-- 📧 Email: **jubayeralfaruk@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/jubayeralfaruk/**  
 
+- [![Email](https://img.shields.io/badge/Email-jubayeralfaruk@gmail.com-blue?logo=gmail&logoColor=white)](mailto:jubayeralfaruk@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jubayeralfaruk-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayeralfaruk/)
+- [![Facebook](https://img.shields.io/badge/Facebook-jubayeralfaruk0-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jubayeralfaruk0)
+- [![X](https://img.shields.io/badge/X-jubayeralfaruk-blue?logo=x&logoColor=white)](https://x.com/jubayeralfaruk)
 ---
 
 <p align="center">
