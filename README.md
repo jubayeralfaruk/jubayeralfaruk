@@ -3,7 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=jubayeralfaruk&label=Profile%20Views&color=537FE7&style=flat-square" />
 </p>
 
-![a-modern-web-developer-banner-design-fea_TDONHC-ITBm8VyY1EugRSQ_XvcjkoXwQqS1FUa2LL-PQg](https://github.com/user-attachments/assets/16c731e4-0a61-4cdd-8520-d5fd3e8dc052)
+
+<img width="1536" height="706" alt="jubayer-banner" src="https://github.com/user-attachments/assets/5d62573e-d0c0-4e53-a9e0-f79e322c3b4b" />
 
 
 
